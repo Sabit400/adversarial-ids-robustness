@@ -189,6 +189,4 @@ robustness evaluation — rather than a replication of any specific published
 study. All code, data generation, and results in this repository are
 original work produced for this project.
 
-## License
 
-MIT
